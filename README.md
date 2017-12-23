@@ -35,6 +35,7 @@ These collection of books are found in some web pages. I only organizated per la
        - Mobile App Development with Ionic 2 - Chris Griffith
        - ng-book 4 - Felipe Coury, Ari Lerner, Nate Murray,
        - Pro Angular (2nd edition) - Adam Freeman
+       - TypeScript 2.x for Angular Developers
      - D3.js
        - D3.js 4.x Data Visualization - Third Editi - Andrew Rininsland
        - D3.js By Example - Michael Heydt
