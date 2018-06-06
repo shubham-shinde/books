@@ -12,7 +12,6 @@ These collection of books are found in some web pages. I only organizated per la
    - Developer Testing_ Building Quality into S - Alexander Tarlinder
    - Re-Engineering Legacy Software - Chris Birchall
    - Working Effectively with Legacy Code - Michael C. Feathers
-   - Domain-Driven Design Distilled - Vernon, Vaughn
 
 2. CSS - SVG
    - CSS Secrets - Lea Verou
