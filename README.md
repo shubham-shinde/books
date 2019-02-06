@@ -3,29 +3,33 @@
 These collection of books are found in some web pages. I only organizated per languages of programming, categories, etc. I'm no responsabilty about Copyright.
 
 1. Code
+
    - The Robert C. Martin Clean Code Collection - Robert C. Martin
-   - Clean Architecture_ A Craftsman's Guide to - Robert C. Martin
-   - Design Patterns_ Elements of Reusable Obje - Gamma, Erich
+   - Clean Architecture\_ A Craftsman's Guide to - Robert C. Martin
+   - Design Patterns\_ Elements of Reusable Obje - Gamma, Erich
    - Head First Design Patterns - Eric Freema, Elisabeth Robson, Bert Bates,
    - Implementation Patterns - Kent Beck
    - Code Simplicity - Max Kanat-Alexander
-   - Developer Testing_ Building Quality into S - Alexander Tarlinder
+   - Developer Testing\_ Building Quality into S - Alexander Tarlinder
    - Re-Engineering Legacy Software - Chris Birchall
    - Working Effectively with Legacy Code - Michael C. Feathers
 
 2. CSS - SVG
+
    - CSS Secrets - Lea Verou
-   - CSS_ The Definitive Guide, 4th Edition - Eric Meyer, Estelle Weyl
+   - CSS\_ The Definitive Guide, 4th Edition - Eric Meyer, Estelle Weyl
    - SVG Animations - Sarah Drasner
    - Using SVG with CSS3 and HTML5 - Amelia Bellamy-Royds, Kurt Cagle
 
 3. Java
+
    - Frameworks / Libraries
      - Reactive Programming with RxJava - Tomasz Nurkiewicz
    - Java 9 Programming By Example - Peter Verhas
    - Java 9 with JShell - Gaston C. Hillar
 
 4. JavaScript
+
    - Frameworks / Libraries
      - Angular / Ionic
        - Angular Test-Driven Development - Second E - Haq, Md. Ziaul
@@ -45,17 +49,17 @@ These collection of books are found in some web pages. I only organizated per la
        - Node.js Design Patterns - Second Edition - Mario Casciaro, Luciano Mammino
        - Restful Web API Design with Nodejs - Valentin Bojinov
      - React
-        - React Design Patterns and Best Practices - Michele Bertoli
-        - React Native - Building Mobile Apps with J - Vladimir Novick
+       - React Design Patterns and Best Practices - Michele Bertoli
+       - React Native - Building Mobile Apps with J - Vladimir Novick
      - RxJS
-        - Mastering Reactive JavaScript - Oliveira, Erich de Souza
-        - RxJS in Action - Paul P. Daniels
+       - Mastering Reactive JavaScript - Oliveira, Erich de Souza
+       - RxJS in Action - Paul P. Daniels
      - Three.js
-        - Game Development with Three.js - Isaac Sukin
+       - Game Development with Three.js - Isaac Sukin
      - Vue
-        - Learning Vue.js 2 - Filipova, Olga;
-        - The Majesty Of Vue.js - Alex Kyriakidis, Kostas Maniatis
-        - Vuex Concepts - Daniel Schmitz
+       - Learning Vue.js 2 - Filipova, Olga;
+       - The Majesty Of Vue.js - Alex Kyriakidis, Kostas Maniatis
+       - Vuex Concepts - Daniel Schmitz
    - Building Isomorphic JavaScript Apps - Jason Strimpel
    - ES6 for Humans - Deepak Grover
    - Functional Programming in JavaScript - Luis Atencio
@@ -77,6 +81,7 @@ These collection of books are found in some web pages. I only organizated per la
    - Web Workers - Ido Green
 
 5. PHP
+
    - Frameworks
      - Design Patterns in PHP and Laravel - Kelt Dockins
    - Domain-Driven Design in PHP - Buenosvinos, Carlos; Soronellas, Christian
@@ -84,5 +89,7 @@ These collection of books are found in some web pages. I only organizated per la
    - Mastering PHP Design Patterns - Ali, Junade
 
 6. Web
-   - Building Progressive Web Apps_ Bringing th - Tal Ater
+   - Building Progressive Web Apps\_ Bringing th - Tal Ater
    - WebSocket - Andrew Lombardi
+7. Machine Learning
+   - Basics of Linear Algebra for Machine Learning - Jason Brownlee
